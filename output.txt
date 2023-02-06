@@ -1,0 +1,6 @@
+kill: 2
+I: 0
+love: 1
+computer: 1
+computer: 3
+science: 1
